@@ -1,0 +1,11 @@
+/** This is a comment that the browser will ignore,
+* Put your CSS code into this file
+*/
+h1{
+	/** setup backgound color for h1 tag **/
+	background: yellow;
+	/** setup font color for h1 tag **/
+	color: blue;
+	/** setup font for h1 tag **/
+	font: italic bold 12px/30px Georgia, serif;
+}
